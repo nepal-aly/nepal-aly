@@ -11,11 +11,12 @@ I am currently in the DEPI program (Digital Egypt Pioneers Initiative, Round 5, 
 | Area | Skills |
 |---|---|
 | Languages | Python, SQL |
-| Data processing | Pandas |
+| Data processing | Pandas, PySpark, Delta Lake |
 | Data collection | Web scraping (requests, BeautifulSoup, Selenium), REST APIs |
-| Databases | SQLite, MySQL |
-| Reporting | Excel |
-| Workflow | Git, GitHub, Jupyter Notebook |
+| Databases | PostgreSQL, SQLite, MySQL |
+| Data modeling | Star schema, Medallion architecture (Bronze, Silver, Gold) |
+| Reporting | Power BI, Excel |
+| Workflow | Git, GitHub, Docker, Jupyter Notebook, pytest |
 
 ---
 
