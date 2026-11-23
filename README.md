@@ -24,7 +24,7 @@ I am currently in the DEPI program (Digital Egypt Pioneers Initiative, Round 5, 
 
 ### Egypt Smartphone Price Tracker
 
-[Repository](https://github.com/Nepal-Ali/egypt-smartphone-price-tracker)
+[Repository](https://github.com/nepal-aly/egypt-smartphone-price-tracker)
 
 An ETL pipeline that collects smartphone prices from Egyptian online stores to compare prices and track them over time. The Jumia Egypt extractor is done: 1,848 smartphones across 47 pages, with 18 columns per product (price, old price, discount, rating, seller and more). It reads the product data embedded in each page instead of parsing the HTML cards, retries failed pages and follows the site's robots.txt rules. The cleaning step is also done for Jumia: it turns text prices into numbers, removes 19 non-phone products, unifies brand names, and extracts storage and RAM from the product names, leaving 1,829 clean phones with 22 columns.
 
@@ -32,7 +32,7 @@ Stack: Python, requests, BeautifulSoup, Pandas, SQLite, Jupyter Notebook.
 
 ### Beauty Products Data Pipeline
 
-[Repository](https://github.com/Nepal-Ali/beauty-products-pipeline)
+[Repository](https://github.com/nepal-aly/beauty-products-pipeline)
 
 An end-to-end ETL pipeline that extracts makeup and perfume data from two public APIs (Makeup API and Open Beauty Facts), cleans it with Pandas and loads it into SQLite and Excel.
 
@@ -52,10 +52,10 @@ Stack: Python, requests, Pandas, SQLite, SQL, Excel.
 
 Object-oriented Python projects built with Turtle graphics:
 
-- [Middle East Map Game](https://github.com/Nepal-Ali/middle-east-map-game): a map quiz that reads country data from CSV with Pandas.
-- [Snake Game](https://github.com/Nepal-Ali/snake-game-python)
-- [Ping Pong](https://github.com/Nepal-Ali/ping-pong-python)
-- [Shape Catcher](https://github.com/Nepal-Ali/shape-catcher-game)
+- [Middle East Map Game](https://github.com/nepal-aly/middle-east-map-game): a map quiz that reads country data from CSV with Pandas.
+- [Snake Game](https://github.com/nepal-aly/snake-game-python)
+- [Ping Pong](https://github.com/nepal-aly/ping-pong-python)
+- [Shape Catcher](https://github.com/nepal-aly/shape-catcher-game)
 
 ---
 
@@ -91,4 +91,4 @@ I take freelance work in data cleaning, web scraping, Python, SQL and Excel repo
 ## Contact
 
 - LinkedIn: [nepal-aly-data](https://www.linkedin.com/in/nepal-aly-data)
-- GitHub: [Nepal-Ali](https://github.com/Nepal-Ali)
+- GitHub: [nepal-aly](https://github.com/nepal-aly)
