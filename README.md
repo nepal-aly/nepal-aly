@@ -26,7 +26,7 @@ I am currently in the DEPI program (Digital Egypt Pioneers Initiative, Round 5, 
 
 [Repository](https://github.com/nepal-aly/egypt-smartphone-price-tracker)
 
-An ETL pipeline that collects smartphone prices from Egyptian online stores to compare prices and track them over time. The Jumia Egypt extractor is done: 1,848 smartphones across 47 pages, with 18 columns per product (price, old price, discount, rating, seller and more). It reads the product data embedded in each page instead of parsing the HTML cards, retries failed pages and follows the site's robots.txt rules.
+An ETL pipeline that collects smartphone prices from Egyptian online stores to compare prices and track them over time. The Jumia Egypt extractor is done: 1,848 smartphones across 47 pages, with 18 columns per product (price, old price, discount, rating, seller and more). It reads the product data embedded in each page instead of parsing the HTML cards, retries failed pages and follows the site's robots.txt rules. The cleaning step is also done for Jumia: it turns text prices into numbers, removes 19 non-phone products, unifies brand names, and extracts storage and RAM from the product names, leaving 1,829 clean phones with 22 columns.
 
 Stack: Python, requests, BeautifulSoup, Pandas, SQLite, Jupyter Notebook.
 
