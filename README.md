@@ -2,7 +2,7 @@
 
 Data Engineer based in Alexandria, Egypt. I build data pipelines that collect, clean and model data, then load it into databases and reports that people can use.
 
-I am currently in the DEPI program (Digital Egypt Pioneers Initiative, Round 5, Microsoft Data Engineer track), where I work as the Analytics Engineer on the FlightLens capstone project.
+I am currently in the DEPI program (Digital Egypt Pioneers Initiative, Round 5, Microsoft Data Engineer track).
 
 ---
 
@@ -21,25 +21,6 @@ I am currently in the DEPI program (Digital Egypt Pioneers Initiative, Round 5, 
 ---
 
 ## Projects
-
-### FlightLens: US Flight Delays Data Platform
-
-DEPI Round 5 capstone, team of five. A data platform for US domestic flight delays (Bureau of Transportation Statistics, July to December 2025).
-
-My role: Analytics Engineer. I built the Gold layer, the PostgreSQL star schema and views, and the Power BI dashboard.
-
-| Item | Value |
-|---|---|
-| Flights loaded into the warehouse | 3,554,938 |
-| Rows sent to quarantine by the quality checks | 5 |
-| Star schema | 1 fact table, 5 dimensions (date, time, carrier, airport, route) |
-| Read-only views for reporting | 6 |
-| Automated checks (pytest) | 41 |
-| Power BI dashboard | 7 pages, 4 filters synced across pages |
-
-Stack: PySpark, Delta Lake, PostgreSQL (Docker), SQL, Power BI, pytest.
-
-The team repository is private until the final delivery in December 2026.
 
 ### Egypt Smartphone Price Tracker
 
