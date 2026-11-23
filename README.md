@@ -85,6 +85,7 @@ I take freelance work in data cleaning, web scraping, Python, SQL and Excel repo
 | Nafezly | [nepaladel](https://nafezly.com/u/nepaladel) |
 | Mostaql | [Nepal_Aly](https://mostaql.com/u/Nepal_Aly) |
 | Freelancer | [nepalali](https://www.freelancer.com/u/nepalali) |
+| Upwork | [Nepal Adel Aly](https://www.upwork.com/freelancers/~015bb0c3bd0f25915e) |
 
 ---
 
