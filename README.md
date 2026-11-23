@@ -4,6 +4,8 @@ Data Engineer based in Alexandria, Egypt. I build data pipelines that collect, c
 
 I am currently in the DEPI program (Digital Egypt Pioneers Initiative, Round 5, Microsoft Data Engineer track).
 
+Interactive portfolio: [nepal-adel-ali.streamlit.app](https://nepal-adel-ali.streamlit.app). Explore my projects with their real data, filters and charts.
+
 ---
 
 ## What I Work With
